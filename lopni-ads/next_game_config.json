@@ -1,0 +1,15 @@
+{
+  "enabled": false,
+  "id": "next_game_01",
+  "title": "Следующая игра",
+  "text": "Новое приключение уже доступно",
+  "logoUrl": "https://raw.githubusercontent.com/mihailzapevalov51749-source/lopni/main/lopni-ads/next-game/logo.png",
+  "backgroundUrl": "https://raw.githubusercontent.com/mihailzapevalov51749-source/lopni/main/lopni-ads/next-game/background.webp",
+  "images": [
+    "https://raw.githubusercontent.com/mihailzapevalov51749-source/lopni/main/lopni-ads/next-game/slide_01.webp",
+    "https://raw.githubusercontent.com/mihailzapevalov51749-source/lopni/main/lopni-ads/next-game/slide_02.webp",
+    "https://raw.githubusercontent.com/mihailzapevalov51749-source/lopni/main/lopni-ads/next-game/slide_03.webp"
+  ],
+  "targetUrl": "https://www.rustore.ru/catalog/app/PASTE_NEXT_GAME_PACKAGE_HERE",
+  "buttonText": "Установить"
+}
