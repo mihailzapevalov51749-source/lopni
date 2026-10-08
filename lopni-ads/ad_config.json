@@ -3,7 +3,15 @@
   "id": "yasnolife",
   "title": "ЯсноЛайф",
   "text": "Дневник питания, веса и активности",
-  "imageUrl": "https://raw.githubusercontent.com/mihailzapevalov51749-source/lopni/main/lopni-ads/images/yasnolife.webp",
+  "logoUrl": "https://raw.githubusercontent.com/mihailzapevalov51749-source/lopni/main/lopni-ads/images/yasnolife_logo.png",
+  "backgroundUrl": "https://raw.githubusercontent.com/mihailzapevalov51749-source/lopni/main/lopni-ads/images/yasnolife_bg.webp",
+  "images": [
+    "https://raw.githubusercontent.com/mihailzapevalov51749-source/lopni/main/lopni-ads/images/yasnolife_slide_01_main.webp",
+    "https://raw.githubusercontent.com/mihailzapevalov51749-source/lopni/main/lopni-ads/images/yasnolife_slide_02_weight.webp",
+    "https://raw.githubusercontent.com/mihailzapevalov51749-source/lopni/main/lopni-ads/images/yasnolife_slide_03_food.webp",
+    "https://raw.githubusercontent.com/mihailzapevalov51749-source/lopni/main/lopni-ads/images/yasnolife_slide_04_steps.webp",
+    "https://raw.githubusercontent.com/mihailzapevalov51749-source/lopni/main/lopni-ads/images/yasnolife_slide_05_photos.webp"
+  ],
   "targetUrl": "https://www.rustore.ru/catalog/app/ru.yasnopro.yasnolife",
-  "buttonText": "Открыть"
+  "buttonText": "Попробовать"
 }
